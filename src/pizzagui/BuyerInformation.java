@@ -230,6 +230,7 @@ public class BuyerInformation extends javax.swing.JFrame {
         Dfield.setText("");
         Pfield.setText("");
         Tfield.setText("");
+        System.out.println("Github");
     }//GEN-LAST:event_ResetbuttonActionPerformed
 
     /**
